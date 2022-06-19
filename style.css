@@ -1,0 +1,79 @@
+
+.main{
+    font-family: 'Courier New', Courier, monospace;
+    background-image:url(./bg.jpg);
+    background-size:auto;
+    background-repeat: no-repeat;
+    
+    margin:-20px;
+    padding-bottom: 100px;
+    
+}
+
+.headline{
+    color:white;
+    text-align: center;
+    padding: 100px 100px 20px 100px;    
+    
+}
+
+/*icon box*/
+#iconsbox{
+    width:auto;
+    margin-left:100px;
+    margin-right:100px;
+}
+
+/*gifting*/
+.gifting{
+    display: inline-block;
+    background-color: aliceblue;
+    text-align: center;
+    /*padding: 20px;*/
+    padding: 10px;
+    border-radius: 20px;
+    margin: 30px;
+    width: 200px;
+    color:blue;
+
+}
+/*sites*/
+.sites{
+    display: inline-block;
+    background-color: aliceblue;
+    text-align: center;
+    /*padding: 20px;*/
+    padding: 10px;
+    border-radius: 20px;
+    margin: 30px;
+    width: 200px;
+    color:blue;
+}
+
+/*coding*/
+.coding{
+    display: inline-block;
+    background-color: aliceblue;
+    text-align: center;
+    /*padding: 20px;*/
+    width: 200px;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 30px;
+    width: 200px;
+    color: blue;
+}
+
+/*simple*/
+.simple{
+    display: inline-block;
+    background-color: aliceblue;
+    text-align: center;
+    /*padding: 20px;*/
+     width: 200px;
+     padding: 10px;
+     border-radius: 20px;
+     margin: 30px;
+     width: 200px;
+     color:blue;
+}
